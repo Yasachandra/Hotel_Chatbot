@@ -1,0 +1,4 @@
+No	Intent	Utterance Count	Utterance Average Length	Utterance Maximum Length	Utterance Minimum Length	Utterance Length StdDev
+0	luis_hotel_booking	11	33.36364	68	20	14.24972
+1	qna_professional_chitchat	6630	23.0368	81	1	9.02486
+ 	__ALL__	6641	23.05391	81	1	9.04407

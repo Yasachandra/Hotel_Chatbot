@@ -1,0 +1,144 @@
+{
+  "luis_schema_version": "4.0.0",
+  "versionId": "0.1",
+  "name": "Hotel_Booking",
+  "desc": "A knowledge model to book hotel rooms",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "intents": [
+    {
+      "name": "book_hotel"
+    },
+    {
+      "name": "None"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [
+    {
+      "name": "location",
+      "subLists": [
+        {
+          "canonicalForm": "Coimbatore",
+          "list": []
+        },
+        {
+          "canonicalForm": "Kochi",
+          "list": [
+            "ernakulam",
+            "cochin"
+          ]
+        },
+        {
+          "canonicalForm": "Delhi",
+          "list": [
+            "new delhi"
+          ]
+        },
+        {
+          "canonicalForm": "Gurugram",
+          "list": [
+            "gurgaon"
+          ]
+        },
+        {
+          "canonicalForm": "Mumbai",
+          "list": [
+            "bombay"
+          ]
+        },
+        {
+          "canonicalForm": "Pune",
+          "list": []
+        },
+        {
+          "canonicalForm": "Kolkata",
+          "list": [
+            "calcutta"
+          ]
+        },
+        {
+          "canonicalForm": "Bengaluru",
+          "list": [
+            "bangalore"
+          ]
+        }
+      ],
+      "roles": []
+    }
+  ],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [
+    {
+      "name": "datetimeV2",
+      "roles": []
+    },
+    {
+      "name": "number",
+      "roles": []
+    }
+  ],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [
+    {
+      "text": "are there hotels available in mumbai?",
+      "intent": "book_hotel",
+      "entities": []
+    },
+    {
+      "text": "book a hotel in bengaluru",
+      "intent": "book_hotel",
+      "entities": []
+    },
+    {
+      "text": "book a room for 1 today",
+      "intent": "book_hotel",
+      "entities": []
+    },
+    {
+      "text": "can you book a hotel",
+      "intent": "book_hotel",
+      "entities": []
+    },
+    {
+      "text": "i need a room for 3 people in kochi coming weekend",
+      "intent": "book_hotel",
+      "entities": []
+    },
+    {
+      "text": "i want to book a hotel",
+      "intent": "book_hotel",
+      "entities": []
+    },
+    {
+      "text": "i want to book a hotel for tomorrow",
+      "intent": "book_hotel",
+      "entities": []
+    },
+    {
+      "text": "i would like to book a hotel",
+      "intent": "book_hotel",
+      "entities": []
+    },
+    {
+      "text": "i would like to make reservation for a room on 13th feb for 1 person",
+      "intent": "book_hotel",
+      "entities": []
+    },
+    {
+      "text": "please book a hotel for 2 people",
+      "intent": "book_hotel",
+      "entities": []
+    },
+    {
+      "text": "please book a hotel in delhi",
+      "intent": "book_hotel",
+      "entities": []
+    }
+  ],
+  "settings": []
+}

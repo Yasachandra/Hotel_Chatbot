@@ -1,0 +1,1 @@
+export default ["Hello.","That's not me, but hello.","Hello there."];

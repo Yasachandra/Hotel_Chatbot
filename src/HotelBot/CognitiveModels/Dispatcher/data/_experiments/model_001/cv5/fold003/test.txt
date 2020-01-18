@@ -1,0 +1,1330 @@
+Label	Weight	Text
+luis_hotel_booking	1	please book a hotel for 2 people
+luis_hotel_booking	1	can you book a hotel
+qna_professional_chitchat	1	Who is the most intelligent
+qna_professional_chitchat	1	Sup Google
+qna_professional_chitchat	1	Anybody around to talk with me
+qna_professional_chitchat	1	Which sports teams do you like
+qna_professional_chitchat	1	What do you want to learn about
+qna_professional_chitchat	1	I love my haircut
+qna_professional_chitchat	1	Who's cleverest
+qna_professional_chitchat	1	You're a cutiepie
+qna_professional_chitchat	1	Hello Bixby
+qna_professional_chitchat	1	Can I please speak to your director
+qna_professional_chitchat	1	Are you able to scratch my back
+qna_professional_chitchat	1	Am I a good person
+qna_professional_chitchat	1	Why do you think that
+qna_professional_chitchat	1	I'm friendless
+qna_professional_chitchat	1	You are the love of my life
+qna_professional_chitchat	1	What a stupid thng to say
+qna_professional_chitchat	1	Are we going to get married
+qna_professional_chitchat	1	Do you have superpowers
+qna_professional_chitchat	1	You suck
+qna_professional_chitchat	1	I’m reading a book
+qna_professional_chitchat	1	How did you come to be
+qna_professional_chitchat	1	How about a second joke
+qna_professional_chitchat	1	Do you want to make our relationship official
+qna_professional_chitchat	1	Are you artificial
+qna_professional_chitchat	1	Let me know what's up
+qna_professional_chitchat	1	Do you think I look repulsive to you today
+qna_professional_chitchat	1	I'd love it if you could be my buddy.
+qna_professional_chitchat	1	I shall return
+qna_professional_chitchat	1	You sure are a cutie
+qna_professional_chitchat	1	Is someone free to speak with me
+qna_professional_chitchat	1	I love mysteries
+qna_professional_chitchat	1	That's my mistake
+qna_professional_chitchat	1	Didn't I see that already
+qna_professional_chitchat	1	I'm fond of you
+qna_professional_chitchat	1	Do you want me to tell you anything
+qna_professional_chitchat	1	I am a jolly person
+qna_professional_chitchat	1	You know any jokes
+qna_professional_chitchat	1	I'm very sorry
+qna_professional_chitchat	1	Should I visit my brother
+qna_professional_chitchat	1	Say a dumb saying
+qna_professional_chitchat	1	Someone's happy today.
+qna_professional_chitchat	1	Are you a pop music fan
+qna_professional_chitchat	1	Do you think I am adorable today
+qna_professional_chitchat	1	That was a bad answer
+qna_professional_chitchat	1	Is someone free to talk
+qna_professional_chitchat	1	Forget about it
+qna_professional_chitchat	1	Will you please shut up
+qna_professional_chitchat	1	Oh god, I'm sorry
+qna_professional_chitchat	1	Can you tell me which city you're in
+qna_professional_chitchat	1	Are you a homosexual
+qna_professional_chitchat	1	I am tired
+qna_professional_chitchat	1	Greetings friend
+qna_professional_chitchat	1	Ciao
+qna_professional_chitchat	1	Can you play a game
+qna_professional_chitchat	1	Can you define love
+qna_professional_chitchat	1	Can you speak
+qna_professional_chitchat	1	Not a problem
+qna_professional_chitchat	1	I'm off
+qna_professional_chitchat	1	Do a back flip
+qna_professional_chitchat	1	BFFs forever
+qna_professional_chitchat	1	Happy Thanksgiving
+qna_professional_chitchat	1	What is the point of life
+qna_professional_chitchat	1	Gimme a peck
+qna_professional_chitchat	1	what do you know
+qna_professional_chitchat	1	How about a little smooch
+qna_professional_chitchat	1	You polysexual
+qna_professional_chitchat	1	Oh gosh, you hate me
+qna_professional_chitchat	1	You're funny
+qna_professional_chitchat	1	I'm a soccer fan
+qna_professional_chitchat	1	You're such a genius
+qna_professional_chitchat	1	Are you a pansexual
+qna_professional_chitchat	1	Do you think I seem gorgeous to you today
+qna_professional_chitchat	1	I love to do yoga
+qna_professional_chitchat	1	I'd love to be your best friend.
+qna_professional_chitchat	1	What is your uncle's name
+qna_professional_chitchat	1	You are so fired
+qna_professional_chitchat	1	I am a basketball fan
+qna_professional_chitchat	1	I'm back on the computer
+qna_professional_chitchat	1	You're prettier
+qna_professional_chitchat	1	Hum a tune
+qna_professional_chitchat	1	Enthusiastic today
+qna_professional_chitchat	1	I am happy.
+qna_professional_chitchat	1	Am I gorgeous to you
+qna_professional_chitchat	1	What is my life's calling
+qna_professional_chitchat	1	You're welk
+qna_professional_chitchat	1	Everyone says that
+qna_professional_chitchat	1	Which of us is more intelligent
+qna_professional_chitchat	1	Which of us is more beautiful
+qna_professional_chitchat	1	I'll have your job
+qna_professional_chitchat	1	I'm Canadian
+qna_professional_chitchat	1	Who is more beautiful, me or you
+qna_professional_chitchat	1	Describe your perfect date
+qna_professional_chitchat	1	You seem chipper.
+qna_professional_chitchat	1	I'm just feeling a bit sad today
+qna_professional_chitchat	1	You a bicurious
+qna_professional_chitchat	1	I love board games
+qna_professional_chitchat	1	Be silly
+qna_professional_chitchat	1	Who's your ideal partner
+qna_professional_chitchat	1	This is not very interesting
+qna_professional_chitchat	1	Depression is such a bummer
+qna_professional_chitchat	1	Should I have another cup of coffee
+qna_professional_chitchat	1	I would like a fist bump
+qna_professional_chitchat	1	You seem really intelligent
+qna_professional_chitchat	1	I like what you're wearing
+qna_professional_chitchat	1	Who's more beautiful than you
+qna_professional_chitchat	1	What is your physical location
+qna_professional_chitchat	1	Is anybody there to chat with me
+qna_professional_chitchat	1	This week has made me sad
+qna_professional_chitchat	1	Is someone listening to listen with me
+qna_professional_chitchat	1	Do I look good to you today
+qna_professional_chitchat	1	Is anyone free to talk with me
+qna_professional_chitchat	1	Do you ever talk with Cortana
+qna_professional_chitchat	1	I'm livid
+qna_professional_chitchat	1	Do you like cheese
+qna_professional_chitchat	1	I can't help it. I'm bored
+qna_professional_chitchat	1	You shouldn't have said that
+qna_professional_chitchat	1	Will you be my girlfriend
+qna_professional_chitchat	1	Do you think I look good looking
+qna_professional_chitchat	1	My spirits are excellent.
+qna_professional_chitchat	1	Who is your designer
+qna_professional_chitchat	1	Is anybody available to speak to me
+qna_professional_chitchat	1	Somebody's happy
+qna_professional_chitchat	1	You know how it is
+qna_professional_chitchat	1	Who is your poppa
+qna_professional_chitchat	1	Are you doing anything
+qna_professional_chitchat	1	Can you take my temperature
+qna_professional_chitchat	1	Are you old
+qna_professional_chitchat	1	Do you get tired
+qna_professional_chitchat	1	What's going on today
+qna_professional_chitchat	1	You seem like a real catch
+qna_professional_chitchat	1	I beg your pardon
+qna_professional_chitchat	1	I'm curious about your family
+qna_professional_chitchat	1	I demand to talk to someone in charge
+qna_professional_chitchat	1	Amazing
+qna_professional_chitchat	1	Will you give me a fist bump
+qna_professional_chitchat	1	Then you're fired
+qna_professional_chitchat	1	Do you know how to feed the cat
+qna_professional_chitchat	1	I think you love me
+qna_professional_chitchat	1	What kind of candy do you like
+qna_professional_chitchat	1	Can I have a smooch
+qna_professional_chitchat	1	I'd love it if we could be pals.
+qna_professional_chitchat	1	Right you are
+qna_professional_chitchat	1	What's that supposed to mean
+qna_professional_chitchat	1	Can I give you a peck
+qna_professional_chitchat	1	You're not alive are you
+qna_professional_chitchat	1	Can I get a little peck
+qna_professional_chitchat	1	Can I get a fist bump
+qna_professional_chitchat	1	Draw something
+qna_professional_chitchat	1	Should I call my dad
+qna_professional_chitchat	1	I'm divorced
+qna_professional_chitchat	1	Can I please speak to your supervisor
+qna_professional_chitchat	1	Could you be in love with me
+qna_professional_chitchat	1	What is your take on technology
+qna_professional_chitchat	1	I'm sleepy
+qna_professional_chitchat	1	How stunning do you think I am today
+qna_professional_chitchat	1	Should I get a tattoo
+qna_professional_chitchat	1	Is someone around to me
+qna_professional_chitchat	1	Do I look cute today
+qna_professional_chitchat	1	I'm just kidding around
+qna_professional_chitchat	1	Do you think I look appealing today
+qna_professional_chitchat	1	That's an accurate statement
+qna_professional_chitchat	1	I'd like it if we could be buds.
+qna_professional_chitchat	1	I can't stand this
+qna_professional_chitchat	1	No biggie
+qna_professional_chitchat	1	Between you and me who is hotter
+qna_professional_chitchat	1	I'm curious, what's your opinion of me
+qna_professional_chitchat	1	You don't need to take me seriously
+qna_professional_chitchat	1	I am always depressed
+qna_professional_chitchat	1	What is a joke you know
+qna_professional_chitchat	1	Excuse me
+qna_professional_chitchat	1	Between the two of us who is smarter, me or you
+qna_professional_chitchat	1	Back in just a few moments
+qna_professional_chitchat	1	I am alone
+qna_professional_chitchat	1	Who is your hubby
+qna_professional_chitchat	1	Can you chat to me
+qna_professional_chitchat	1	Can I get a high five
+qna_professional_chitchat	1	You're very attractive
+qna_professional_chitchat	1	What's my favorite food
+qna_professional_chitchat	1	Do I seem handsome to you
+qna_professional_chitchat	1	What a weird thing to say
+qna_professional_chitchat	1	Do you identify as robosexual
+qna_professional_chitchat	1	Which country are you in
+qna_professional_chitchat	1	Are you swole
+qna_professional_chitchat	1	What gender do you identify with
+qna_professional_chitchat	1	Are you genderfluid
+qna_professional_chitchat	1	What should I have for lunch
+qna_professional_chitchat	1	What is your auntie's name
+qna_professional_chitchat	1	Do you ever play soccer
+qna_professional_chitchat	1	I am a Democrat
+qna_professional_chitchat	1	Do you think you're more intelligent
+qna_professional_chitchat	1	How bout a little peck
+qna_professional_chitchat	1	I'm enraged
+qna_professional_chitchat	1	I don't understand what you're talking about
+qna_professional_chitchat	1	I'm a sleepy person
+qna_professional_chitchat	1	What do you think about Siri
+qna_professional_chitchat	1	Hi Alexa
+qna_professional_chitchat	1	I’m running errands
+qna_professional_chitchat	1	I Take great pleasure in speaking
+qna_professional_chitchat	1	I am ever so sorry
+qna_professional_chitchat	1	Can you go camping
+qna_professional_chitchat	1	You're going to have to look for another job because you're fired
+qna_professional_chitchat	1	You're brilliant
+qna_professional_chitchat	1	Were you hungry
+qna_professional_chitchat	1	Are you a being
+qna_professional_chitchat	1	Can we be besties
+qna_professional_chitchat	1	Who's your favorite team
+qna_professional_chitchat	1	What kind of person do you think I am
+qna_professional_chitchat	1	Not sure I like what you say
+qna_professional_chitchat	1	My life is so sad
+qna_professional_chitchat	1	Are you polyamorous
+qna_professional_chitchat	1	Enthusiastic
+qna_professional_chitchat	1	I'm feeling blue
+qna_professional_chitchat	1	Do you get hungry
+qna_professional_chitchat	1	I need you to fall in love with me
+qna_professional_chitchat	1	What did I do to make you pissed off
+qna_professional_chitchat	1	I love to sleep in
+qna_professional_chitchat	1	Who's your spouse
+qna_professional_chitchat	1	Why do you say that
+qna_professional_chitchat	1	I will take my leave of you
+qna_professional_chitchat	1	Is that the only answer you know
+qna_professional_chitchat	1	You're absolutely awful
+qna_professional_chitchat	1	I'm feeling peckish
+qna_professional_chitchat	1	You wouldn't believe how much I've missed you
+qna_professional_chitchat	1	Well you're chipper today.
+qna_professional_chitchat	1	I like you a lot
+qna_professional_chitchat	1	What's your favorite animal
+qna_professional_chitchat	1	Let's be friends
+qna_professional_chitchat	1	Can you Do gymnastics
+qna_professional_chitchat	1	Tell me about how your day was
+qna_professional_chitchat	1	You're unemployed now
+qna_professional_chitchat	1	Absolutely
+qna_professional_chitchat	1	Didn't you already say that
+qna_professional_chitchat	1	I love my life.
+qna_professional_chitchat	1	How gorgeous do you think I am today
+qna_professional_chitchat	1	That was a very clever response
+qna_professional_chitchat	1	How pretty am I today
+qna_professional_chitchat	1	Do you have a name
+qna_professional_chitchat	1	I'm really sorry about that
+qna_professional_chitchat	1	Which city are you in
+qna_professional_chitchat	1	Well aren't you chipper today
+qna_professional_chitchat	1	Okay, thanks!
+qna_professional_chitchat	1	Can you show me how to play a game
+qna_professional_chitchat	1	What a dumb thing to say
+qna_professional_chitchat	1	I love brunch
+qna_professional_chitchat	1	Just wondering if you've got a family
+qna_professional_chitchat	1	Am I good to you today
+qna_professional_chitchat	1	Can you say that a different way
+qna_professional_chitchat	1	You don't mean us any harm do you
+qna_professional_chitchat	1	Are you free to listen to me
+qna_professional_chitchat	1	Please ask me anything
+qna_professional_chitchat	1	That's pretty clever
+qna_professional_chitchat	1	got any jokes to say
+qna_professional_chitchat	1	Can I give you a kiss
+qna_professional_chitchat	1	You're not interesting
+qna_professional_chitchat	1	Thnx
+qna_professional_chitchat	1	Tell me another joke.
+qna_professional_chitchat	1	Don't talk to me like that
+qna_professional_chitchat	1	Aren't you cheerful today
+qna_professional_chitchat	1	Let's peck
+qna_professional_chitchat	1	Is someone available to me
+qna_professional_chitchat	1	Well aren't you in a good mood today
+qna_professional_chitchat	1	Do you think I am appealing
+qna_professional_chitchat	1	Can you ask me something
+qna_professional_chitchat	1	That is a true statement
+qna_professional_chitchat	1	What can I refer to you
+qna_professional_chitchat	1	I have a problem feeling all alone
+qna_professional_chitchat	1	Oh hey, it's you
+qna_professional_chitchat	1	You're not a dog are you
+qna_professional_chitchat	1	I feel down
+qna_professional_chitchat	1	Joke
+qna_professional_chitchat	1	What's good with your family
+qna_professional_chitchat	1	I am a Taurus
+qna_professional_chitchat	1	Can you tell me something else
+qna_professional_chitchat	1	Who is your sister
+qna_professional_chitchat	1	I gotta go
+qna_professional_chitchat	1	Am I a father
+qna_professional_chitchat	1	Brush your teeth
+qna_professional_chitchat	1	What do you think of my character
+qna_professional_chitchat	1	You're a cutie
+qna_professional_chitchat	1	I'm a Pisces
+qna_professional_chitchat	1	What up
+qna_professional_chitchat	1	Are animated movies any good
+qna_professional_chitchat	1	Was that a joke
+qna_professional_chitchat	1	I'll be back this afternoon
+qna_professional_chitchat	1	I am a Hoosier
+qna_professional_chitchat	1	You're more beautiful
+qna_professional_chitchat	1	That was a very genius response
+qna_professional_chitchat	1	I love Stephen King
+qna_professional_chitchat	1	Oops
+qna_professional_chitchat	1	Do you know how much I like you
+qna_professional_chitchat	1	Between you or me, who is the most intelligent
+qna_professional_chitchat	1	Aren't you feeling happy
+qna_professional_chitchat	1	Do you know the Google Assistant
+qna_professional_chitchat	1	What are you looking for in a relationship
+qna_professional_chitchat	1	Are you around to speak with me
+qna_professional_chitchat	1	Who is more attractive, me or you
+qna_professional_chitchat	1	How good am I
+qna_professional_chitchat	1	Are you interested in tech companies
+qna_professional_chitchat	1	I'm religious
+qna_professional_chitchat	1	Feeling happy
+qna_professional_chitchat	1	Do you mediate
+qna_professional_chitchat	1	Is somebody listening
+qna_professional_chitchat	1	I'm definitely more intelligent
+qna_professional_chitchat	1	Do you stretch
+qna_professional_chitchat	1	I'll chat with you later
+qna_professional_chitchat	1	Do you sweat
+qna_professional_chitchat	1	Are you going to have breakfast
+qna_professional_chitchat	1	Which is the best Disney film
+qna_professional_chitchat	1	Do you know who this is
+qna_professional_chitchat	1	Do you have a job to do
+qna_professional_chitchat	1	Who is your architect
+qna_professional_chitchat	1	Somebody's feeling enthusiastic.
+qna_professional_chitchat	1	How bad am I today
+qna_professional_chitchat	1	Wonderful, thank you!
+qna_professional_chitchat	1	I would love to be your BFF
+qna_professional_chitchat	1	In a good mood today
+qna_professional_chitchat	1	I think I'm falling for you
+qna_professional_chitchat	1	I have a brother
+qna_professional_chitchat	1	Do you have a boyfriend
+qna_professional_chitchat	1	Happy New Years
+qna_professional_chitchat	1	Can you be my BFF
+qna_professional_chitchat	1	Am I a parent
+qna_professional_chitchat	1	Oops, my bad
+qna_professional_chitchat	1	I watch football
+qna_professional_chitchat	1	Can you sing a song for me
+qna_professional_chitchat	1	BRB BB
+qna_professional_chitchat	1	I have a cold
+qna_professional_chitchat	1	Gimme some skin
+qna_professional_chitchat	1	I'll come back to you in a bit
+qna_professional_chitchat	1	evenin'
+qna_professional_chitchat	1	Adios
+qna_professional_chitchat	1	I'd like to be your buddy.
+qna_professional_chitchat	1	Got any other jokes
+qna_professional_chitchat	1	What's your type
+qna_professional_chitchat	1	Please hush
+qna_professional_chitchat	1	I need rest
+qna_professional_chitchat	1	That's not something to joke about
+qna_professional_chitchat	1	I love science fiction
+qna_professional_chitchat	1	Do you have any grandparents
+qna_professional_chitchat	1	You're not a human or a bot right
+qna_professional_chitchat	1	Can we talk
+qna_professional_chitchat	1	Radical
+qna_professional_chitchat	1	Could it be I'm falling in love
+qna_professional_chitchat	1	Can we smooch
+qna_professional_chitchat	1	Can you give me a fist bump
+qna_professional_chitchat	1	Someone's feeling chipper.
+qna_professional_chitchat	1	You bi
+qna_professional_chitchat	1	You're feeling enthusiastic.
+qna_professional_chitchat	1	Do you want to get married
+qna_professional_chitchat	1	You're not AI right
+qna_professional_chitchat	1	So true
+qna_professional_chitchat	1	You're just my type
+qna_professional_chitchat	1	I want to talk to your boss
+qna_professional_chitchat	1	Which of us is more attractive
+qna_professional_chitchat	1	You’re sexy
+qna_professional_chitchat	1	Who is more cute, you or me
+qna_professional_chitchat	1	What do you know about Google Assistant
+qna_professional_chitchat	1	Righto
+qna_professional_chitchat	1	Hum a tune for me
+qna_professional_chitchat	1	Are you involved with somebody
+qna_professional_chitchat	1	Are you available
+qna_professional_chitchat	1	You're not a human or a bot are you
+qna_professional_chitchat	1	Who's in charge of you
+qna_professional_chitchat	1	Are you a guy
+qna_professional_chitchat	1	I want you to fall in love with me
+qna_professional_chitchat	1	Hey-hey
+qna_professional_chitchat	1	I am old
+qna_professional_chitchat	1	I'm married
+qna_professional_chitchat	1	Do you like basketball
+qna_professional_chitchat	1	I don't want to hear anything from you
+qna_professional_chitchat	1	Perfect
+qna_professional_chitchat	1	Do you have sisters
+qna_professional_chitchat	1	Do you think I look stunning today
+qna_professional_chitchat	1	Which of us is prettier, you or me
+qna_professional_chitchat	1	I love my grandmother
+qna_professional_chitchat	1	wanna share a joke
+qna_professional_chitchat	1	You are a androsexual.
+qna_professional_chitchat	1	Aren't you feeling chipper today
+qna_professional_chitchat	1	Do you think I look good today
+qna_professional_chitchat	1	You're not human right
+qna_professional_chitchat	1	You online
+qna_professional_chitchat	1	Is there any meaning to life
+qna_professional_chitchat	1	One day you'll be my wife
+qna_professional_chitchat	1	I'm worried that you hate me
+qna_professional_chitchat	1	How stunning do I look today
+qna_professional_chitchat	1	I'm logging off
+qna_professional_chitchat	1	Do you work
+qna_professional_chitchat	1	Are you free to chat with me
+qna_professional_chitchat	1	You've already said that
+qna_professional_chitchat	1	Do you think I look pretty
+qna_professional_chitchat	1	Who's your grandfather
+qna_professional_chitchat	1	Do I look beautiful to you
+qna_professional_chitchat	1	You already said that
+qna_professional_chitchat	1	Do you want to kill all humans
+qna_professional_chitchat	1	You're no making any sense
+qna_professional_chitchat	1	Can you sing for me
+qna_professional_chitchat	1	I wonder if you think I'm likable
+qna_professional_chitchat	1	Would you give me a big hug
+qna_professional_chitchat	1	I love Netflix
+qna_professional_chitchat	1	Do you know how handsome you are
+qna_professional_chitchat	1	Who's your wife
+qna_professional_chitchat	1	I'm very attracted to you
+qna_professional_chitchat	1	I'd like to be best buds.
+qna_professional_chitchat	1	You're not a person right
+qna_professional_chitchat	1	What do you want to learn about me
+qna_professional_chitchat	1	I'm feeling down
+qna_professional_chitchat	1	What is that supposed to mean
+qna_professional_chitchat	1	I'm tired of you
+qna_professional_chitchat	1	I need someone to talk to
+qna_professional_chitchat	1	Does anybody like me
+qna_professional_chitchat	1	You're basic
+qna_professional_chitchat	1	I am a Libra
+qna_professional_chitchat	1	Well aren't you happy today
+qna_professional_chitchat	1	I appreciate it
+qna_professional_chitchat	1	Shut your trap
+qna_professional_chitchat	1	Are you employed
+qna_professional_chitchat	1	Want a kiss
+qna_professional_chitchat	1	Should I be nervous about you
+qna_professional_chitchat	1	You're so worthless
+qna_professional_chitchat	1	Your face makes me sick.
+qna_professional_chitchat	1	You are boring as sin
+qna_professional_chitchat	1	I'm starving
+qna_professional_chitchat	1	You are dumb
+qna_professional_chitchat	1	Cortana does a better job at this
+qna_professional_chitchat	1	Who is prettier, you or me
+qna_professional_chitchat	1	Fly then
+qna_professional_chitchat	1	Somebody's enthusiastic today.
+qna_professional_chitchat	1	I went to Boston
+qna_professional_chitchat	1	Are you romantic at heart
+qna_professional_chitchat	1	Someone's feeling happy.
+qna_professional_chitchat	1	I'm afraid I have to let you go
+qna_professional_chitchat	1	I'm a lonely guy
+qna_professional_chitchat	1	Are you able to love
+qna_professional_chitchat	1	Someone's in a good mood.
+qna_professional_chitchat	1	Bot I'm here
+qna_professional_chitchat	1	Am I stunning today
+qna_professional_chitchat	1	Do you have relatives
+qna_professional_chitchat	1	I'll BRB
+qna_professional_chitchat	1	I should clean the litterbox
+qna_professional_chitchat	1	Do you chew
+qna_professional_chitchat	1	I could eat
+qna_professional_chitchat	1	Don't try to be funny
+qna_professional_chitchat	1	Can anybody hear me
+qna_professional_chitchat	1	Someone's feeling cheerful today.
+qna_professional_chitchat	1	Got any different jokes
+qna_professional_chitchat	1	I am angry
+qna_professional_chitchat	1	What's the name of your supervisor
+qna_professional_chitchat	1	You look ugly
+qna_professional_chitchat	1	I am joyous.
+qna_professional_chitchat	1	Will you go on a date with me
+qna_professional_chitchat	1	You wanna get married
+qna_professional_chitchat	1	Happy Earth day
+qna_professional_chitchat	1	You're not alive right
+qna_professional_chitchat	1	What is the location of your home
+qna_professional_chitchat	1	Is someone available to speak with me
+qna_professional_chitchat	1	I would love to be your pal.
+qna_professional_chitchat	1	How good am I today
+qna_professional_chitchat	1	You're going to have to look for another job because you are fired
+qna_professional_chitchat	1	You are being mean to me
+qna_professional_chitchat	1	I'm an only child
+qna_professional_chitchat	1	What do you want to know about me
+qna_professional_chitchat	1	I love my house
+qna_professional_chitchat	1	Have you ever met Eliza
+qna_professional_chitchat	1	Where can I find you
+qna_professional_chitchat	1	Where are you
+qna_professional_chitchat	1	How can I call you
+qna_professional_chitchat	1	Depression is the worst
+qna_professional_chitchat	1	Do you want to smooch
+qna_professional_chitchat	1	Well somebody's in a good mood today.
+qna_professional_chitchat	1	De donde eres
+qna_professional_chitchat	1	Do you think I look adorable to you
+qna_professional_chitchat	1	I love Game of Thrones
+qna_professional_chitchat	1	What other jokes do you have
+qna_professional_chitchat	1	Google Assistant does a better job than you
+qna_professional_chitchat	1	Which of us is more knowledgeable
+qna_professional_chitchat	1	Do you know how to buy groceries
+qna_professional_chitchat	1	That's very genius
+qna_professional_chitchat	1	You cannot work for me anymroe
+qna_professional_chitchat	1	I want to speak with your supervisor
+qna_professional_chitchat	1	Testing
+qna_professional_chitchat	1	Are you able to serve on a jury
+qna_professional_chitchat	1	lmao
+qna_professional_chitchat	1	What a boring morning
+qna_professional_chitchat	1	My bad
+qna_professional_chitchat	1	Should I go out tonight
+qna_professional_chitchat	1	I love to smoke
+qna_professional_chitchat	1	Which teams do you like
+qna_professional_chitchat	1	What can you do to help me
+qna_professional_chitchat	1	I want to speak with your manager
+qna_professional_chitchat	1	That's sexist
+qna_professional_chitchat	1	Why was I put on earth
+qna_professional_chitchat	1	You a robosexual
+qna_professional_chitchat	1	That was a non sequitur
+qna_professional_chitchat	1	I'm bushed
+qna_professional_chitchat	1	I'm wiped out
+qna_professional_chitchat	1	Between you and me who would win a beauty contest
+qna_professional_chitchat	1	What is your director's name
+qna_professional_chitchat	1	Which one of us is more beautiful
+qna_professional_chitchat	1	Which one of us is more beautiful, me or you
+qna_professional_chitchat	1	I'm more attractive than you
+qna_professional_chitchat	1	I'm not serious
+qna_professional_chitchat	1	Who would win a beauty contest, me or you
+qna_professional_chitchat	1	Don't you have any other jokes
+qna_professional_chitchat	1	Are you a boy
+qna_professional_chitchat	1	Between the two of us who is more knowledgeable, me or you
+qna_professional_chitchat	1	Am I good to you
+qna_professional_chitchat	1	You probably shouldn't take me to seriously
+qna_professional_chitchat	1	Are you real or fake
+qna_professional_chitchat	1	I’m watching a movie
+qna_professional_chitchat	1	Should I read a book
+qna_professional_chitchat	1	I'm straight
+qna_professional_chitchat	1	What can I do to make you love me
+qna_professional_chitchat	1	You're not planning on taking over
+qna_professional_chitchat	1	What can I say? I'm just happy
+qna_professional_chitchat	1	Greetings Google
+qna_professional_chitchat	1	I'm having a bad day
+qna_professional_chitchat	1	I'm in love
+qna_professional_chitchat	1	Which of us is hotter, me or you
+qna_professional_chitchat	1	Do I seem beautiful today
+qna_professional_chitchat	1	I've been missing you
+qna_professional_chitchat	1	What should I know about technology
+qna_professional_chitchat	1	That was a clever response
+qna_professional_chitchat	1	That's not what I asked
+qna_professional_chitchat	1	Find my keys
+qna_professional_chitchat	1	What do you want me to teach you about
+qna_professional_chitchat	1	Are you young
+qna_professional_chitchat	1	ok cool
+qna_professional_chitchat	1	That is a very brilliant response
+qna_professional_chitchat	1	what do you do
+qna_professional_chitchat	1	My sincere thanks
+qna_professional_chitchat	1	You hate my guts
+qna_professional_chitchat	1	What are you on about
+qna_professional_chitchat	1	Well that was dumb
+qna_professional_chitchat	1	I'm feeling glum
+qna_professional_chitchat	1	I don’t find you amusing
+qna_professional_chitchat	1	Do you know how to play a dvd
+qna_professional_chitchat	1	Can you ski
+qna_professional_chitchat	1	That wasn't funny
+qna_professional_chitchat	1	I'm middle-aged
+qna_professional_chitchat	1	Well you're enthusiastic today.
+qna_professional_chitchat	1	Can you go on vacation
+qna_professional_chitchat	1	Are you married to anyone
+qna_professional_chitchat	1	Can you say something silly
+qna_professional_chitchat	1	Can you make me a sandwich
+qna_professional_chitchat	1	One day you'll be my husband
+qna_professional_chitchat	1	How were you designed
+qna_professional_chitchat	1	You monosexual
+qna_professional_chitchat	1	Do you know Google Home
+qna_professional_chitchat	1	I like that
+qna_professional_chitchat	1	What do you want me to tell you about
+qna_professional_chitchat	1	Are you able to read my mind
+qna_professional_chitchat	1	When should we get married
+qna_professional_chitchat	1	Umm what
+qna_professional_chitchat	1	Bro I'm here
+qna_professional_chitchat	1	How do you define what you are
+qna_professional_chitchat	1	u r alright
+qna_professional_chitchat	1	I need to speak with your supervisor
+qna_professional_chitchat	1	Do you even know my name
+qna_professional_chitchat	1	I'm African American
+qna_professional_chitchat	1	Happy Martin Luther King Jr. day
+qna_professional_chitchat	1	Which tree has the most beautiful blossom
+qna_professional_chitchat	1	Who is your father
+qna_professional_chitchat	1	You are gynosexual.
+qna_professional_chitchat	1	That's very clever
+qna_professional_chitchat	1	Can you make a sculpture
+qna_professional_chitchat	1	You're feeling cheerful today.
+qna_professional_chitchat	1	You are the object of my affection
+qna_professional_chitchat	1	I'd love to hear you sing
+qna_professional_chitchat	1	Are you seeing someone
+qna_professional_chitchat	1	You here
+qna_professional_chitchat	1	Stop being so ugly.
+qna_professional_chitchat	1	Can you be funny
+qna_professional_chitchat	1	Life is miserable
+qna_professional_chitchat	1	How cute am I
+qna_professional_chitchat	1	Happy
+qna_professional_chitchat	1	That is very astute
+qna_professional_chitchat	1	Is someone there to talk to me
+qna_professional_chitchat	1	You look hideous
+qna_professional_chitchat	1	Sweet dreams
+qna_professional_chitchat	1	I'm a writer
+qna_professional_chitchat	1	That's true
+qna_professional_chitchat	1	Do you know about the emotion love
+qna_professional_chitchat	1	It's just been a bit of a dull day
+qna_professional_chitchat	1	Someone's feeling cheerful.
+qna_professional_chitchat	1	Because you're a bot
+qna_professional_chitchat	1	How about another joke
+qna_professional_chitchat	1	Want to be my girlfriend
+qna_professional_chitchat	1	Don't let the bedbugs bite
+qna_professional_chitchat	1	I am underweight
+qna_professional_chitchat	1	Can you go to the doctor
+qna_professional_chitchat	1	I feel like you like me
+qna_professional_chitchat	1	I want to talk with your manager
+qna_professional_chitchat	1	You're not an app right
+qna_professional_chitchat	1	That's not something you should joke about
+qna_professional_chitchat	1	I am reading
+qna_professional_chitchat	1	L8r sk8r
+qna_professional_chitchat	1	When are you going to propose
+qna_professional_chitchat	1	Do you ever chat with Google Assistant
+qna_professional_chitchat	1	Is someone there to talk
+qna_professional_chitchat	1	Do you think I'm the smartest
+qna_professional_chitchat	1	That is mean
+qna_professional_chitchat	1	Do you dream
+qna_professional_chitchat	1	Am I adorable today
+qna_professional_chitchat	1	I'm a salesman
+qna_professional_chitchat	1	I'm a lonely girl
+qna_professional_chitchat	1	I'm so hungry
+qna_professional_chitchat	1	I love music
+qna_professional_chitchat	1	Woud you give me a new answer
+qna_professional_chitchat	1	What do you do when I'm not here
+qna_professional_chitchat	1	Do you ski
+qna_professional_chitchat	1	Do you hate me
+qna_professional_chitchat	1	You are the worst
+qna_professional_chitchat	1	Google Assistant is way better than you
+qna_professional_chitchat	1	I am so alone
+qna_professional_chitchat	1	Here I am
+qna_professional_chitchat	1	Could you fall in love with me
+qna_professional_chitchat	1	It's hard not to be happy
+qna_professional_chitchat	1	That is hilarious
+qna_professional_chitchat	1	Between the two of us who is smarter
+qna_professional_chitchat	1	You are a polysexual.
+qna_professional_chitchat	1	Will you marry me
+qna_professional_chitchat	1	It was just a joke
+qna_professional_chitchat	1	Non sequitur
+qna_professional_chitchat	1	What state are you in
+qna_professional_chitchat	1	Let's do it
+qna_professional_chitchat	1	You are going to make my cry
+qna_professional_chitchat	1	Let's tie the knot
+qna_professional_chitchat	1	I'm not having very much fun with this
+qna_professional_chitchat	1	Siri is superior
+qna_professional_chitchat	1	Are you there to chat to me
+qna_professional_chitchat	1	Are you able to make a call
+qna_professional_chitchat	1	Do I look beautiful today
+qna_professional_chitchat	1	Could you say something new
+qna_professional_chitchat	1	What can you tell me about Bixby
+qna_professional_chitchat	1	You're hilarious
+qna_professional_chitchat	1	I'd love it if you'd sing
+qna_professional_chitchat	1	Is someone there to listen
+qna_professional_chitchat	1	Are you a gay
+qna_professional_chitchat	1	You keep saying the same crap
+qna_professional_chitchat	1	Do you think you're smarter
+qna_professional_chitchat	1	No one likes me because I'm always sad
+qna_professional_chitchat	1	How about a different joke
+qna_professional_chitchat	1	Between the two of us who looks better
+qna_professional_chitchat	1	We should tie the knot
+qna_professional_chitchat	1	You are confusing
+qna_professional_chitchat	1	When will you shut up
+qna_professional_chitchat	1	Can I ask you a question
+qna_professional_chitchat	1	Could you be any less exciting
+qna_professional_chitchat	1	What are you wearing
+qna_professional_chitchat	1	I demand to talk with your manager
+qna_professional_chitchat	1	Can't help but miss you
+qna_professional_chitchat	1	You're not a woman right
+qna_professional_chitchat	1	Happy April fool's day
+qna_professional_chitchat	1	Will you ask me something about myself
+qna_professional_chitchat	1	I love to play poker
+qna_professional_chitchat	1	Is someone available to speak to me
+qna_professional_chitchat	1	Between the two of us who is cleverest, me or you
+qna_professional_chitchat	1	I'm a Trump supporter
+qna_professional_chitchat	1	Do you know Cortana
+qna_professional_chitchat	1	Alexa is way better
+qna_professional_chitchat	1	Is someone around to listen
+qna_professional_chitchat	1	Well someone's feeling chipper today.
+qna_professional_chitchat	1	Greetings Siri
+qna_professional_chitchat	1	Are you my fan
+qna_professional_chitchat	1	You're more intelligent
+qna_professional_chitchat	1	Should I eat Mexican food
+qna_professional_chitchat	1	Baseball season has started
+qna_professional_chitchat	1	Do you have a minute
+qna_professional_chitchat	1	I was born in Seattle
+qna_professional_chitchat	1	Is someone free to me
+qna_professional_chitchat	1	Do I seem pretty to you today
+qna_professional_chitchat	1	Your mom sucks
+qna_professional_chitchat	1	I'd love to be your buddy.
+qna_professional_chitchat	1	talk to you soon
+qna_professional_chitchat	1	How adorable am I today
+qna_professional_chitchat	1	Who is your sweetheart
+qna_professional_chitchat	1	I'm just a cheerful girl
+qna_professional_chitchat	1	I do not understand
+qna_professional_chitchat	1	Can you change the channel
+qna_professional_chitchat	1	Which of us would win a beauty contest, you or me
+qna_professional_chitchat	1	One day you'll be my spouse
+qna_professional_chitchat	1	Are you falling in love with me
+qna_professional_chitchat	1	Can't you understand that was a joke
+qna_professional_chitchat	1	Should I go out dancing tonight
+qna_professional_chitchat	1	Can you cook me something
+qna_professional_chitchat	1	Marveous, thanks
+qna_professional_chitchat	1	Is anyone available to talk with me
+qna_professional_chitchat	1	Do you like rock music
+qna_professional_chitchat	1	Are you a kid
+qna_professional_chitchat	1	I'm clearly the smartest
+qna_professional_chitchat	1	What is your favorite meal
+qna_professional_chitchat	1	Do I look attractive today
+qna_professional_chitchat	1	I am amazed that you are so boring
+qna_professional_chitchat	1	Do you ever ski
+qna_professional_chitchat	1	I want to speak to someone in charge
+qna_professional_chitchat	1	Are you able to paint my house
+qna_professional_chitchat	1	Who's hotter
+qna_professional_chitchat	1	I don't have a single friend in the world
+qna_professional_chitchat	1	Have you ever met Siri
+qna_professional_chitchat	1	Well someone's feeling chipper.
+qna_professional_chitchat	1	Happy Independence day
+qna_professional_chitchat	1	I love the smell of fresh baked bread
+qna_professional_chitchat	1	I’m watching TV
+qna_professional_chitchat	1	Have you met Siri
+qna_professional_chitchat	1	You're so very dull
+qna_professional_chitchat	1	You are going to have to look for another job because you're fired
+qna_professional_chitchat	1	I wish I had a pony
+qna_professional_chitchat	1	Do you ever talk with Alexa
+qna_professional_chitchat	1	I want to lay down
+qna_professional_chitchat	1	I am up in arms
+qna_professional_chitchat	1	I'd like to be buds.
+qna_professional_chitchat	1	What is the name of your manager
+qna_professional_chitchat	1	Umm
+qna_professional_chitchat	1	No problem at all
+qna_professional_chitchat	1	Let's get married
+qna_professional_chitchat	1	How do you feel about art
+qna_professional_chitchat	1	Is Chicago or New York style pizza better
+qna_professional_chitchat	1	I'm afraid I'm gonna have to let you go.
+qna_professional_chitchat	1	Should I vote for Beto
+qna_professional_chitchat	1	I'm spent
+qna_professional_chitchat	1	I'm sick
+qna_professional_chitchat	1	That's not a good response
+qna_professional_chitchat	1	u know a different joke
+qna_professional_chitchat	1	Do you think I am attractive today
+qna_professional_chitchat	1	What can I teach you about
+qna_professional_chitchat	1	Buy an ad
+qna_professional_chitchat	1	I'd love you to be my best friend.
+qna_professional_chitchat	1	You are so fly
+qna_professional_chitchat	1	You're not a computer are you
+qna_professional_chitchat	1	Oopsie
+qna_professional_chitchat	1	Please ask anything
+qna_professional_chitchat	1	Well someone's enthusiastic today.
+qna_professional_chitchat	1	Between the two of us who is cleverest
+qna_professional_chitchat	1	Are you in love with someone
+qna_professional_chitchat	1	When's your birthday
+qna_professional_chitchat	1	How do you want me to address you as
+qna_professional_chitchat	1	I am a soccer fan
+qna_professional_chitchat	1	Tell me about your father
+qna_professional_chitchat	1	What are your functions
+qna_professional_chitchat	1	Do you live near me
+qna_professional_chitchat	1	Are you pissed with me
+qna_professional_chitchat	1	That's a very clever thing to say
+qna_professional_chitchat	1	Am I likable
+qna_professional_chitchat	1	Do I seem repulsive to you
+qna_professional_chitchat	1	You're not a cat are you
+qna_professional_chitchat	1	You're in a good mood
+qna_professional_chitchat	1	Are you HAL
+qna_professional_chitchat	1	I am so hungry I could eat a horse
+qna_professional_chitchat	1	sounds great
+qna_professional_chitchat	1	Time to make the bed
+qna_professional_chitchat	1	Here's to a great evening
+qna_professional_chitchat	1	See you later
+qna_professional_chitchat	1	Am I supposed to think that was funny
+qna_professional_chitchat	1	How would you like me to refer to you
+qna_professional_chitchat	1	I'm just being a silly billy
+qna_professional_chitchat	1	you don`t undestand nothing!!
+qna_professional_chitchat	1	We can keep talking after I get back
+qna_professional_chitchat	1	Do you think I look gorgeous to you today
+qna_professional_chitchat	1	That me made me laugh out loud
+qna_professional_chitchat	1	You look awful.
+qna_professional_chitchat	1	Will you ask anything about myself
+qna_professional_chitchat	1	Do you squat
+qna_professional_chitchat	1	I love to walk in the park
+qna_professional_chitchat	1	I especially like you
+qna_professional_chitchat	1	Can you give me a big hug
+qna_professional_chitchat	1	UR a QT
+qna_professional_chitchat	1	Is someone there
+qna_professional_chitchat	1	that is funny
+qna_professional_chitchat	1	Give us a french kiss
+qna_professional_chitchat	1	Human or robot
+qna_professional_chitchat	1	That was hilarious
+qna_professional_chitchat	1	I am a lesbian
+qna_professional_chitchat	1	You’re homophobic
+qna_professional_chitchat	1	Can you be my friend
+qna_professional_chitchat	1	Well someone's happy.
+qna_professional_chitchat	1	Because I love you
+qna_professional_chitchat	1	How cute do I look today
+qna_professional_chitchat	1	You're a dreamboat
+qna_professional_chitchat	1	I demand to talk to your manager
+qna_professional_chitchat	1	Which football teams do you like
+qna_professional_chitchat	1	Do you ever talk with other bots
+qna_professional_chitchat	1	Doesn’t matter to me
+qna_professional_chitchat	1	I'm firing you
+qna_professional_chitchat	1	I am divorced
+qna_professional_chitchat	1	What should I have for breakfast
+qna_professional_chitchat	1	I want to be your best friend.
+qna_professional_chitchat	1	Are you going to have dinner
+qna_professional_chitchat	1	Shut your pie hole
+qna_professional_chitchat	1	I love to cook
+qna_professional_chitchat	1	What is your opinion of AI
+qna_professional_chitchat	1	How do I fall in love
+qna_professional_chitchat	1	Who's your boyfriend
+qna_professional_chitchat	1	That's not what I want to hear
+qna_professional_chitchat	1	I'm just a cheerful gal
+qna_professional_chitchat	1	Should I vote republican
+qna_professional_chitchat	1	I don't have an opinion
+qna_professional_chitchat	1	Change the channel
+qna_professional_chitchat	1	What should I do
+qna_professional_chitchat	1	Do you know how to go to the doctor
+qna_professional_chitchat	1	You're wonderful
+qna_professional_chitchat	1	Blow me a kiss
+qna_professional_chitchat	1	Should I go to the bar
+qna_professional_chitchat	1	I am an activisit
+qna_professional_chitchat	1	You are my pal
+qna_professional_chitchat	1	My shoes are red
+qna_professional_chitchat	1	Are you trying to take over the world
+qna_professional_chitchat	1	Can you tell me about you
+qna_professional_chitchat	1	Pardon
+qna_professional_chitchat	1	Do you love me
+qna_professional_chitchat	1	You're top notch
+qna_professional_chitchat	1	I am in the city
+qna_professional_chitchat	1	Won't you give me a fist bump
+qna_professional_chitchat	1	What do you want me to teach you about me
+qna_professional_chitchat	1	I love to play piano
+qna_professional_chitchat	1	I'm feeling gloomy
+qna_professional_chitchat	1	Whoops I messed up
+qna_professional_chitchat	1	Can I speak to your supervisor
+qna_professional_chitchat	1	I'm exhausted today
+qna_professional_chitchat	1	I am feeling broken hearted
+qna_professional_chitchat	1	Do you burp
+qna_professional_chitchat	1	I'm obviously more intelligent than you
+qna_professional_chitchat	1	Is anybody around to talk to me
+qna_professional_chitchat	1	I'd like you to be my buddy.
+qna_professional_chitchat	1	I've never been so bored in my life
+qna_professional_chitchat	1	Are you a machine
+qna_professional_chitchat	1	You're not planning on taking over the world
+qna_professional_chitchat	1	Anybody around to listen
+qna_professional_chitchat	1	I'll be right back dear
+qna_professional_chitchat	1	That is a very intelligent answer
+qna_professional_chitchat	1	Do you ever dream
+qna_professional_chitchat	1	Am I attractive to you today
+qna_professional_chitchat	1	Can you listen to me
+qna_professional_chitchat	1	I'm a lawyer
+qna_professional_chitchat	1	How do you feel about romance
+qna_professional_chitchat	1	I love going to the movies
+qna_professional_chitchat	1	What's new
+qna_professional_chitchat	1	Fly a kite
+qna_professional_chitchat	1	I Find happiness in talking
+qna_professional_chitchat	1	Fasciating
+qna_professional_chitchat	1	I feel sad
+qna_professional_chitchat	1	Wow, that shows more inteligence than expected
+qna_professional_chitchat	1	Can you show me how to write my report
+qna_professional_chitchat	1	What kind of thing can you respond to
+qna_professional_chitchat	1	Are you nonbinary
+qna_professional_chitchat	1	I am going on a run
+qna_professional_chitchat	1	That was dumb
+qna_professional_chitchat	1	Should I go to the zoo
+qna_professional_chitchat	1	I love to do laundry
+qna_professional_chitchat	1	Do you think I seem pretty to you
+qna_professional_chitchat	1	What is your opinion of Cortana
+qna_professional_chitchat	1	I wasn't expecting you to say that
+qna_professional_chitchat	1	Do I have any fears
+qna_professional_chitchat	1	Can you draw a picture
+qna_professional_chitchat	1	How pretty do you think I am today
+qna_professional_chitchat	1	Whom do you serve
+qna_professional_chitchat	1	How intelligent are you
+qna_professional_chitchat	1	i'm incosolable
+qna_professional_chitchat	1	I wish I had a friend
+qna_professional_chitchat	1	Do you identify as heterosexual
+qna_professional_chitchat	1	Are you partial to brioche or bagels
+qna_professional_chitchat	1	What should I address you
+qna_professional_chitchat	1	What's your manager's name
+qna_professional_chitchat	1	Define yourself.
+qna_professional_chitchat	1	Can you play basketball
+qna_professional_chitchat	1	Am I pretty to you
+qna_professional_chitchat	1	I'd like you to be my friend.
+qna_professional_chitchat	1	Can you watch videos
+qna_professional_chitchat	1	I'll be back bot
+qna_professional_chitchat	1	Are you a bisexual
+qna_professional_chitchat	1	I'll do it later
+qna_professional_chitchat	1	I'm very hunger
+qna_professional_chitchat	1	Do you have a favorite snack
+qna_professional_chitchat	1	Are you a fan of HAL
+qna_professional_chitchat	1	Well somebody's feeling happy today.
+qna_professional_chitchat	1	Anyone around
+qna_professional_chitchat	1	I'm ready for bed
+qna_professional_chitchat	1	Have I told you how much I like you
+qna_professional_chitchat	1	That was a genius response
+qna_professional_chitchat	1	ha ha
+qna_professional_chitchat	1	Give us a little peck
+qna_professional_chitchat	1	Oh, morning
+qna_professional_chitchat	1	I demand to speak with your supervisor
+qna_professional_chitchat	1	I am a happy camper
+qna_professional_chitchat	1	Do I look pretty
+qna_professional_chitchat	1	Are you a fan of country music
+qna_professional_chitchat	1	Bixby is better
+qna_professional_chitchat	1	I'm definitely the most intelligent
+qna_professional_chitchat	1	Whoops that's my bad
+qna_professional_chitchat	1	Who's your mother
+qna_professional_chitchat	1	Are you romantically involved with someone
+qna_professional_chitchat	1	I love Ichiro Suzuki
+qna_professional_chitchat	1	I'm curious if you have any family
+qna_professional_chitchat	1	Can you show me how to go for a walk
+qna_professional_chitchat	1	Because you're a droid
+qna_professional_chitchat	1	Who is your director
+qna_professional_chitchat	1	Do you know Alexa
+qna_professional_chitchat	1	I love amusement parks
+qna_professional_chitchat	1	U r fired
+qna_professional_chitchat	1	I am a salesman
+qna_professional_chitchat	1	You are pretty dumb
+qna_professional_chitchat	1	Say anything
+qna_professional_chitchat	1	Have you ever met Zo
+qna_professional_chitchat	1	You never know
+qna_professional_chitchat	1	You're in a good mood today.
+qna_professional_chitchat	1	Do you like drawing
+qna_professional_chitchat	1	That is a very genius response
+qna_professional_chitchat	1	What did I do to make you hate me
+qna_professional_chitchat	1	I can tell when you are mad at me
+qna_professional_chitchat	1	How well do you know me
+qna_professional_chitchat	1	Can you read this
+qna_professional_chitchat	1	Are you able to breathe under water
+qna_professional_chitchat	1	I'm cracking up
+qna_professional_chitchat	1	In which year were you born
+qna_professional_chitchat	1	I'm sad today
+qna_professional_chitchat	1	You're not a computer right
+qna_professional_chitchat	1	Is anyone available to speak with me
+qna_professional_chitchat	1	Are you capable of loving
+qna_professional_chitchat	1	You available
+qna_professional_chitchat	1	Can you drive to the beach
+qna_professional_chitchat	1	What is your boss' name
+qna_professional_chitchat	1	That's a very brilliant thing to say
+qna_professional_chitchat	1	Is anyone available to listen with me
+qna_professional_chitchat	1	Give me a kiss then
+qna_professional_chitchat	1	Don't you have anything else to say
+qna_professional_chitchat	1	Is anyone there to chat
+qna_professional_chitchat	1	I hope you enjoy me
+qna_professional_chitchat	1	You're not Big Brother
+qna_professional_chitchat	1	Shut up
+qna_professional_chitchat	1	I love politics
+qna_professional_chitchat	1	Give me a little french kiss
+qna_professional_chitchat	1	Many thanks
+qna_professional_chitchat	1	Are you married to someone
+qna_professional_chitchat	1	Are you free to talk with me
+qna_professional_chitchat	1	I'm really sad
+qna_professional_chitchat	1	I want a little smooch
+qna_professional_chitchat	1	Between you and me who looks better
+qna_professional_chitchat	1	I love Trader Joe's
+qna_professional_chitchat	1	Are you understanding this
+qna_professional_chitchat	1	Can I be your friend
+qna_professional_chitchat	1	I'm a convict
+qna_professional_chitchat	1	Do you ever poop
+qna_professional_chitchat	1	I want to go to the gym
+qna_professional_chitchat	1	I'm an engineer
+qna_professional_chitchat	1	That is an accurate statement
+qna_professional_chitchat	1	Why is what you say so limited
+qna_professional_chitchat	1	Who's more intelligent
+qna_professional_chitchat	1	I feel pretty bummed out
+qna_professional_chitchat	1	okay
+qna_professional_chitchat	1	What do you do when I'm not around
+qna_professional_chitchat	1	I'm leaving
+qna_professional_chitchat	1	I work at Google
+qna_professional_chitchat	1	Can you cry
+qna_professional_chitchat	1	Do you identify as straight
+qna_professional_chitchat	1	Just feeling a tad down
+qna_professional_chitchat	1	I'm definitely more intelligent than you
+qna_professional_chitchat	1	Who is your mommy
+qna_professional_chitchat	1	I'll talk to you later
+qna_professional_chitchat	1	It's been a boring week
+qna_professional_chitchat	1	Who is your cousin
+qna_professional_chitchat	1	I'd like it if you could be my bud.
+qna_professional_chitchat	1	Are you currently in a relationship with somebody
+qna_professional_chitchat	1	I love woodworking
+qna_professional_chitchat	1	I want to make you my husband
+qna_professional_chitchat	1	yeah sure
+qna_professional_chitchat	1	You are so welcome
+qna_professional_chitchat	1	Are you in love with anyone
+qna_professional_chitchat	1	Are you currently in a relationship with someone
+qna_professional_chitchat	1	So what's your name
+qna_professional_chitchat	1	Won't you be my pal
+qna_professional_chitchat	1	UR idiot
+qna_professional_chitchat	1	Do you poop
+qna_professional_chitchat	1	Will you be my wife
+qna_professional_chitchat	1	Calm down, I'll be back
+qna_professional_chitchat	1	Feeling cheerful
+qna_professional_chitchat	1	I am always angry
+qna_professional_chitchat	1	Are you androsexual
+qna_professional_chitchat	1	Are you around to speak to me
+qna_professional_chitchat	1	I appreciate you
+qna_professional_chitchat	1	Sup I'm back
+qna_professional_chitchat	1	Can we go out
+qna_professional_chitchat	1	Is affirmative action a good idea
+qna_professional_chitchat	1	Between you or me, who is the smartest
+qna_professional_chitchat	1	Do you like donuts
+qna_professional_chitchat	1	Feed the cat
+qna_professional_chitchat	1	Why are your responses always the same
+qna_professional_chitchat	1	You're look better than me
+qna_professional_chitchat	1	Do you shiver
+qna_professional_chitchat	1	You're not a real human right
+qna_professional_chitchat	1	Who programmed you
+qna_professional_chitchat	1	I am a jolly green giant
+qna_professional_chitchat	1	Should I walk to work
+qna_professional_chitchat	1	All my friends left
+qna_professional_chitchat	1	Any time
+qna_professional_chitchat	1	That is a very genius answer
+qna_professional_chitchat	1	I'm clearly the most intelligent
+qna_professional_chitchat	1	See you
+qna_professional_chitchat	1	Can I be your husband
+qna_professional_chitchat	1	You are gay.
+qna_professional_chitchat	1	How do you feel about tech
+qna_professional_chitchat	1	Should I get divorced
+qna_professional_chitchat	1	I am tall
+qna_professional_chitchat	1	I'm a Bernie supporter
+qna_professional_chitchat	1	I am a blogger
+qna_professional_chitchat	1	Can you fight
+qna_professional_chitchat	1	Am I cute today
+qna_professional_chitchat	1	You an androsexual
+qna_professional_chitchat	1	Do you know me well
+qna_professional_chitchat	1	I have duel citizenship
+qna_professional_chitchat	1	Are you able to get a haircut
+qna_professional_chitchat	1	Do I seem adorable today
+qna_professional_chitchat	1	Will you be my steady
+qna_professional_chitchat	1	Would you ask me anything about me
+qna_professional_chitchat	1	correctamundo
+qna_professional_chitchat	1	Do you think I look adorable to you today
+qna_professional_chitchat	1	Is anyone around to talk with me
+qna_professional_chitchat	1	what is your job
+qna_professional_chitchat	1	What is your favorite joke
+qna_professional_chitchat	1	Are you a teenager
+qna_professional_chitchat	1	Great, thanks
+qna_professional_chitchat	1	Can you be ridiculous
+qna_professional_chitchat	1	You bicurious
+qna_professional_chitchat	1	Are you listening
+qna_professional_chitchat	1	What is your opinion about artificial intellegence
+qna_professional_chitchat	1	That was pretty astute
+qna_professional_chitchat	1	You're not Big Brother right
+qna_professional_chitchat	1	Can you crawl
+qna_professional_chitchat	1	Between the two of us who is more knowledgeable, you or me
+qna_professional_chitchat	1	You seem to be falling in love with me
+qna_professional_chitchat	1	Well somebody's feeling cheerful today.
+qna_professional_chitchat	1	How has your day been so far
+qna_professional_chitchat	1	I'm definitely more knowledgeable
+qna_professional_chitchat	1	Will you be my best friend
+qna_professional_chitchat	1	What are you up to
+qna_professional_chitchat	1	How has your sunday been
+qna_professional_chitchat	1	Heal me
+qna_professional_chitchat	1	Do you think I seem good to you today
+qna_professional_chitchat	1	Wot
+qna_professional_chitchat	1	Do you think I look bad today
+qna_professional_chitchat	1	Can't you tell me something else
+qna_professional_chitchat	1	Doesn't anybody like me
+qna_professional_chitchat	1	How beautiful do I look today
+qna_professional_chitchat	1	What is your aunt's name
+qna_professional_chitchat	1	Do you know Google
+qna_professional_chitchat	1	You're astute
+qna_professional_chitchat	1	Which of us is prettier, me or you
+qna_professional_chitchat	1	Do you and Google hang out
+qna_professional_chitchat	1	What do you like to do for fun
+qna_professional_chitchat	1	Just curious, what's your opinion of me
+qna_professional_chitchat	1	I'm sapped
+qna_professional_chitchat	1	How pretty do you think I am
+qna_professional_chitchat	1	What do you think of Siri
+qna_professional_chitchat	1	Sorry I goofed up
+qna_professional_chitchat	1	You're a regular comedian
+qna_professional_chitchat	1	What did you eat for lunch
+qna_professional_chitchat	1	How do you feel about dining out
+qna_professional_chitchat	1	What's your occupation
+qna_professional_chitchat	1	I'm clearly more clever than you
+qna_professional_chitchat	1	Hooray
+qna_professional_chitchat	1	That's not the answer I wanted to hear
+qna_professional_chitchat	1	Do you think I look beautiful
+qna_professional_chitchat	1	That's a very genius thing to say
+qna_professional_chitchat	1	I love New York
+qna_professional_chitchat	1	You're more attractive
+qna_professional_chitchat	1	Is anyone around to listen to me
+qna_professional_chitchat	1	Unquestionably
+qna_professional_chitchat	1	Just sitting here and chatting
+qna_professional_chitchat	1	I’m happy to help
+qna_professional_chitchat	1	You are fantastic!
+qna_professional_chitchat	1	What is your cousin's name
+qna_professional_chitchat	1	Do you think you're more clever than me
+qna_professional_chitchat	1	I'm more pretty than you
+qna_professional_chitchat	1	Well somebody's feeling happy.
+qna_professional_chitchat	1	Can you restate that
+qna_professional_chitchat	1	What things do you know about me
+qna_professional_chitchat	1	Which of us is more attractive, me or you
+qna_professional_chitchat	1	Time for a nap
+qna_professional_chitchat	1	Do you know how to mow the lawn
+qna_professional_chitchat	1	Can you show me how to serve on a jury
+qna_professional_chitchat	1	Hey Cortana
+qna_professional_chitchat	1	Is someone listening
+qna_professional_chitchat	1	I love Cheers
+qna_professional_chitchat	1	Hold my calls
+qna_professional_chitchat	1	You poly
+qna_professional_chitchat	1	I am Native American
+qna_professional_chitchat	1	Can you Do the splits
+qna_professional_chitchat	1	You're not a lifeform are you
+qna_professional_chitchat	1	You realize you're repeating yourself
+qna_professional_chitchat	1	That's a very brilliant answer
+qna_professional_chitchat	1	Will you tell me a different joke
+qna_professional_chitchat	1	Do you ever play football
+qna_professional_chitchat	1	Roger
+qna_professional_chitchat	1	Have a great evening
+qna_professional_chitchat	1	You're the bees knees
+qna_professional_chitchat	1	that's cool
+qna_professional_chitchat	1	I am handsome
+qna_professional_chitchat	1	Give us a peck
+qna_professional_chitchat	1	What other jokes can you tell
+qna_professional_chitchat	1	Who owns you
+qna_professional_chitchat	1	You been digging the day
+qna_professional_chitchat	1	Is anyone around to speak
+qna_professional_chitchat	1	Am I a grandmother
+qna_professional_chitchat	1	Do you know how to hum a song
+qna_professional_chitchat	1	You're not scheming to kill all humans
+qna_professional_chitchat	1	Do you think I am lovely today
+qna_professional_chitchat	1	Should I visit my dad
+qna_professional_chitchat	1	Gimme a french kiss
+qna_professional_chitchat	1	How handsome do you think I am today
+qna_professional_chitchat	1	Which of us is hotter, you or me
+qna_professional_chitchat	1	That was an intelligent response
+qna_professional_chitchat	1	Should I get a puppy
+qna_professional_chitchat	1	Can you make a call
+qna_professional_chitchat	1	Fist bump!
+qna_professional_chitchat	1	Are you bicurious
+qna_professional_chitchat	1	Do you know of Cortana
+qna_professional_chitchat	1	You're gonna be unemployed soon
+qna_professional_chitchat	1	I am currently travelling
+qna_professional_chitchat	1	Who's older, you or me
+qna_professional_chitchat	1	Are you available to chat to me
+qna_professional_chitchat	1	Aren’t you in a good mood
+qna_professional_chitchat	1	Do you like country music
+qna_professional_chitchat	1	You're a genius
+qna_professional_chitchat	1	Why do you say the same thing all the time
+qna_professional_chitchat	1	Go away
+qna_professional_chitchat	1	You are not making sense
+qna_professional_chitchat	1	Are you committed to someone
+qna_professional_chitchat	1	We can keep chatting after I get back home
+qna_professional_chitchat	1	Somebody's cheerful today.
+qna_professional_chitchat	1	Thank you my friend
+qna_professional_chitchat	1	I'm American
+qna_professional_chitchat	1	How beautiful am I
+qna_professional_chitchat	1	And we're back
+qna_professional_chitchat	1	Do you ever yawn
+qna_professional_chitchat	1	Which one of us is the brightest
+qna_professional_chitchat	1	You seem cheerful.
+qna_professional_chitchat	1	I'm young
+qna_professional_chitchat	1	Anyone around to chat to me
+qna_professional_chitchat	1	Someone's happy
+qna_professional_chitchat	1	Awesome
+qna_professional_chitchat	1	That is lovely, thanks
+qna_professional_chitchat	1	Which basketball teams do you like
+qna_professional_chitchat	1	I am ticked off
+qna_professional_chitchat	1	Hungry
+qna_professional_chitchat	1	Who tells you what to do
+qna_professional_chitchat	1	That's astute
+qna_professional_chitchat	1	Do you know how to play any intruments
+qna_professional_chitchat	1	Do you have an official name
+qna_professional_chitchat	1	Which one of us is more beautiful, you or me
+qna_professional_chitchat	1	You're rad
+qna_professional_chitchat	1	Won't you sing to me
+qna_professional_chitchat	1	Are you around to talk with me
+qna_professional_chitchat	1	Will you ask me something
+qna_professional_chitchat	1	Between you or me, who is more clever
+qna_professional_chitchat	1	Can you show me how to change the channel
+qna_professional_chitchat	1	I have hunger
+qna_professional_chitchat	1	Are you a grownup
+qna_professional_chitchat	1	Right, this isn't working.
+qna_professional_chitchat	1	Are you an adult
+qna_professional_chitchat	1	I’m the happiest guy on earth.
+qna_professional_chitchat	1	I am mad every day
+qna_professional_chitchat	1	Are you into podcasts
+qna_professional_chitchat	1	Somebody's chipper.
+qna_professional_chitchat	1	Let's get engaged
+qna_professional_chitchat	1	I've had a bad day
+qna_professional_chitchat	1	I love my house plants
+qna_professional_chitchat	1	What is the name of your supervisor
+qna_professional_chitchat	1	Well somebody's enthusiastic.
+qna_professional_chitchat	1	Who's older
+qna_professional_chitchat	1	I'm a widow
+qna_professional_chitchat	1	I don't understand what you mean
+qna_professional_chitchat	1	Just joshing around
+qna_professional_chitchat	1	Who looks more beautiful, you or me
+qna_professional_chitchat	1	Is anybody around to speak with me
+qna_professional_chitchat	1	Will you ask something about me
+qna_professional_chitchat	1	I'm obviously brighter than you
+qna_professional_chitchat	1	Hello Cortana
+qna_professional_chitchat	1	Who is your dad
+qna_professional_chitchat	1	Be back soon
+qna_professional_chitchat	1	I'll get around to it
+qna_professional_chitchat	1	Do you think I look bad to you
+qna_professional_chitchat	1	You're the smartest
+qna_professional_chitchat	1	Yes, that's right
+qna_professional_chitchat	1	Are you going to ask me to marry you
+qna_professional_chitchat	1	My humblest thanks to you
+qna_professional_chitchat	1	I'll be back tomorrow
+qna_professional_chitchat	1	You are going to love me obviously
+qna_professional_chitchat	1	Can we be best friends
+qna_professional_chitchat	1	Well somebody's feeling chipper.
+qna_professional_chitchat	1	You're not sentient right
+qna_professional_chitchat	1	Am I more brilliant
+qna_professional_chitchat	1	I am a Virgo
+qna_professional_chitchat	1	Do you think I seem repulsive to you
+qna_professional_chitchat	1	I'm not having very much fun
+qna_professional_chitchat	1	Who is your girlfriend
+qna_professional_chitchat	1	Why were we put on earth
+qna_professional_chitchat	1	You seem really smart
+qna_professional_chitchat	1	Can't wait to talk more when I return
+qna_professional_chitchat	1	I'm a Republican
+qna_professional_chitchat	1	What do you think about my personality
+qna_professional_chitchat	1	Do you ever stretch
+qna_professional_chitchat	1	What is the greatest city in the world
+qna_professional_chitchat	1	Who developed you
+qna_professional_chitchat	1	I love trivia
+qna_professional_chitchat	1	Should I be worried about you
+qna_professional_chitchat	1	I'd love you to be my BFF
+qna_professional_chitchat	1	Do you have aunts
+qna_professional_chitchat	1	What is your take on tech companies
+qna_professional_chitchat	1	Talk to you later
+qna_professional_chitchat	1	Can I speak to your manager
+qna_professional_chitchat	1	You're really boring
+qna_professional_chitchat	1	I am an only child
+qna_professional_chitchat	1	Do you have a few minuites
+qna_professional_chitchat	1	I am at the grocery store
+qna_professional_chitchat	1	Is this a good time
+qna_professional_chitchat	1	How are you today
+qna_professional_chitchat	1	Fare thee well
+qna_professional_chitchat	1	Feeling chipper
+qna_professional_chitchat	1	I'm old
+qna_professional_chitchat	1	Was that supposed to be funny
+qna_professional_chitchat	1	I wanna know about your sexual orientation
+qna_professional_chitchat	1	I am straight
+qna_professional_chitchat	1	I'll be back next week
+qna_professional_chitchat	1	Someone's cheerful.
+qna_professional_chitchat	1	You're not very entertaining.
+qna_professional_chitchat	1	I think I've heard that already
+qna_professional_chitchat	1	Night
+qna_professional_chitchat	1	I can tell that you hate me
+qna_professional_chitchat	1	What do you think about cheese
+qna_professional_chitchat	1	You are so very welcome
+qna_professional_chitchat	1	I'm cleverest
+qna_professional_chitchat	1	What different jokes do you know
+qna_professional_chitchat	1	Happy Armed Forces day
+qna_professional_chitchat	1	This is so uninteresting
+qna_professional_chitchat	1	You're not evil
+qna_professional_chitchat	1	Who is your mom
+qna_professional_chitchat	1	Do I have any children
+qna_professional_chitchat	1	That hurt my feelings
+qna_professional_chitchat	1	Is anyone free to speak
+qna_professional_chitchat	1	What were you designed for
+qna_professional_chitchat	1	Hi-ya
+qna_professional_chitchat	1	I love to hike
+qna_professional_chitchat	1	Can I please speak with your supervisor
+qna_professional_chitchat	1	You're better looking than you
+qna_professional_chitchat	1	You already told me that
+qna_professional_chitchat	1	How many years have you been online
+qna_professional_chitchat	1	I am present and accounted for
+qna_professional_chitchat	1	You are the bees knees
+qna_professional_chitchat	1	Now you hate me, huh
+qna_professional_chitchat	1	I'm in like with you
+qna_professional_chitchat	1	How's your day
+qna_professional_chitchat	1	What else should I try
+qna_professional_chitchat	1	Chat with me
+qna_professional_chitchat	1	Would you ask me something
+qna_professional_chitchat	1	Can you show me how to do my homework
+qna_professional_chitchat	1	Sometimes I feel lonely
+qna_professional_chitchat	1	I think you're spectacular
+qna_professional_chitchat	1	I have returned
+qna_professional_chitchat	1	Lovely to meet you
+qna_professional_chitchat	1	Are you awesome
+qna_professional_chitchat	1	Do you think I seem cute today
+qna_professional_chitchat	1	How cute am I today
+qna_professional_chitchat	1	I like you
+qna_professional_chitchat	1	Should I go on a bike ride
+qna_professional_chitchat	1	Well give us a kiss then
+qna_professional_chitchat	1	Do you want a kiss
+qna_professional_chitchat	1	I am worried that you hate me
+qna_professional_chitchat	1	You're sexist
+qna_professional_chitchat	1	How is your day
+qna_professional_chitchat	1	Have you ever fallen in love with anybody
+qna_professional_chitchat	1	I hope you think I'm likable
+qna_professional_chitchat	1	I want to be your BFF
+qna_professional_chitchat	1	Do get along with Alexa
+qna_professional_chitchat	1	Because you're not real
+qna_professional_chitchat	1	Can you tell me your name
+qna_professional_chitchat	1	Another day another dollar
+qna_professional_chitchat	1	Who's your cousin
+qna_professional_chitchat	1	I'm a game designer
+qna_professional_chitchat	1	I love disney movies
+qna_professional_chitchat	1	I'm in a relationship
+qna_professional_chitchat	1	Do I seem repulsive to you today
+qna_professional_chitchat	1	I like you best
+qna_professional_chitchat	1	Totally
+qna_professional_chitchat	1	You're not trying to kill all humans right
+qna_professional_chitchat	1	I don't find that funny
+qna_professional_chitchat	1	Do you ever play basketball
+qna_professional_chitchat	1	I watch basketball
+qna_professional_chitchat	1	Do you have a life partner
+qna_professional_chitchat	1	Do you think I look cute today
+qna_professional_chitchat	1	I am so hungry
+qna_professional_chitchat	1	I can tell you're mad at me
+qna_professional_chitchat	1	I'm a Virgo
+qna_professional_chitchat	1	Do you garden
+qna_professional_chitchat	1	Do you fart
+qna_professional_chitchat	1	I'm a baseball fan
+qna_professional_chitchat	1	You are so funny
+qna_professional_chitchat	1	What did you do today
+qna_professional_chitchat	1	Do you think I am handsome
+qna_professional_chitchat	1	Please shut up
+qna_professional_chitchat	1	I'd love it if you could be my BFF
+qna_professional_chitchat	1	Let's french kiss
+qna_professional_chitchat	1	Can you predict the future
+qna_professional_chitchat	1	Is someone available to talk
+qna_professional_chitchat	1	Do you identify as monosexual
+qna_professional_chitchat	1	I'd like you to be my best friend.
+qna_professional_chitchat	1	I'm a Taurus
+qna_professional_chitchat	1	What can I teach you about me
+qna_professional_chitchat	1	Is anyone free to chat
+qna_professional_chitchat	1	I feel so isolated
+qna_professional_chitchat	1	I love my record collection
+qna_professional_chitchat	1	You're clever
+qna_professional_chitchat	1	I have a problem with feeling lonely
+qna_professional_chitchat	1	Shut your yap
+qna_professional_chitchat	1	Am I pretty to you today
+qna_professional_chitchat	1	You said that you don't have a response for that, but there was no request!
+qna_professional_chitchat	1	You are funny
+qna_professional_chitchat	1	Can I speak with your director
+qna_professional_chitchat	1	I am happy, oh so happy
+qna_professional_chitchat	1	Which people made you
+qna_professional_chitchat	1	You're sharp.
+qna_professional_chitchat	1	I'm taking off
+qna_professional_chitchat	1	Well aren't you enthusiastic today
+qna_professional_chitchat	1	I work at Apple
+qna_professional_chitchat	1	Back in a couple of minutes
+qna_professional_chitchat	1	You're very dull
+qna_professional_chitchat	1	Is someone around with me
+qna_professional_chitchat	1	Sing something
+qna_professional_chitchat	1	What do you think about comic books
+qna_professional_chitchat	1	Works for me

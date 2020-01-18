@@ -1,0 +1,141 @@
+{
+  "luis_schema_version": "3.2.0",
+  "versionId": "0.1",
+  "name": "confirm",
+  "desc": "To check whether bot responded with yes or no",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "intents": [
+    {
+      "name": "no"
+    },
+    {
+      "name": "None"
+    },
+    {
+      "name": "yes"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [
+    {
+      "text": "i am happy with the resolution",
+      "intent": "yes",
+      "entities": []
+    },
+    {
+      "text": "i am not happy with the solution",
+      "intent": "no",
+      "entities": []
+    },
+    {
+      "text": "it was correct",
+      "intent": "yes",
+      "entities": []
+    },
+    {
+      "text": "it was not correct",
+      "intent": "no",
+      "entities": []
+    },
+    {
+      "text": "my issue is still not solved",
+      "intent": "no",
+      "entities": []
+    },
+    {
+      "text": "my issue is still to be resolved",
+      "intent": "no",
+      "entities": []
+    },
+    {
+      "text": "my issue was resolved",
+      "intent": "yes",
+      "entities": []
+    },
+    {
+      "text": "no i am not satisfied",
+      "intent": "no",
+      "entities": []
+    },
+    {
+      "text": "no my issue is not resolved",
+      "intent": "no",
+      "entities": []
+    },
+    {
+      "text": "no my issue is not yet solved",
+      "intent": "no",
+      "entities": []
+    },
+    {
+      "text": "no your solution was wrong",
+      "intent": "no",
+      "entities": []
+    },
+    {
+      "text": "not at all",
+      "intent": "no",
+      "entities": []
+    },
+    {
+      "text": "thanks for the resolving my issue",
+      "intent": "yes",
+      "entities": []
+    },
+    {
+      "text": "thanks. the solution was correct",
+      "intent": "yes",
+      "entities": []
+    },
+    {
+      "text": "the solution was incorrect",
+      "intent": "no",
+      "entities": []
+    },
+    {
+      "text": "the solution was not at all correct",
+      "intent": "no",
+      "entities": []
+    },
+    {
+      "text": "yeah i am happy with the solution",
+      "intent": "yes",
+      "entities": []
+    },
+    {
+      "text": "yeah issue is solved",
+      "intent": "yes",
+      "entities": []
+    },
+    {
+      "text": "yeah it is solved",
+      "intent": "yes",
+      "entities": []
+    },
+    {
+      "text": "yes i am satisfied",
+      "intent": "yes",
+      "entities": []
+    },
+    {
+      "text": "yes issue is resolved",
+      "intent": "yes",
+      "entities": []
+    },
+    {
+      "text": "yes you have solved my issue",
+      "intent": "yes",
+      "entities": []
+    }
+  ],
+  "settings": []
+}

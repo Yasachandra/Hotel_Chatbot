@@ -1,0 +1,38 @@
+{
+  "authoringRegion": "westus",
+  "hierarchical": true,
+  "useAllTrainingData": false,
+  "dontReviseUtterance": false,
+  "copyLuisData": true,
+  "normalizeDiacritics": true,
+  "services": [
+    {
+      "intentName": "luis_hotel_booking",
+      "appId": "632d9c7f-8a26-4d26-8625-0077804fa987",
+      "authoringKey": "1d33b6c77c724808afdbe73baf7f5dae",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "Hotel_Booking",
+      "id": "1"
+    },
+    {
+      "intentName": "qna_professional_chitchat",
+      "kbId": "4ef41192-f7ce-4474-94ba-d1ead8366863",
+      "subscriptionKey": "6cc60ec11d5f4ad4943fef3fc499d4b4",
+      "type": "qna",
+      "name": "ProfessionalChitchat",
+      "id": "2"
+    }
+  ],
+  "serviceIds": [
+    "1",
+    "2"
+  ],
+  "appId": "69469a45-d3f9-489e-8d6a-a9522bcb9838",
+  "authoringKey": "1d33b6c77c724808afdbe73baf7f5dae",
+  "version": "Dispatch",
+  "region": "westus",
+  "type": "dispatch",
+  "name": "dispatcher_hotel_bot"
+}
