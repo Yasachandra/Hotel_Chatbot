@@ -20,7 +20,7 @@
     "url": "https://github.com"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "documentdb": "^1.15.3",
     "botbuilder": "~4.5.1",
     "botbuilder-dialogs": "^4.5.1",
